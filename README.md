@@ -1,4 +1,4 @@
-# Hostel-Managment-Syatem-PHP
+# Hostel-Managment-System-PHP
 This is a Hostel Management system project is created using PHP and MYSQL. Developed as a package for the subject Relational Database Managment System(RDMS).
 
 user_system is the project folder name
